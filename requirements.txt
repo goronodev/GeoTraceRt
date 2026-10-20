@@ -1,0 +1,5 @@
+tkintermapview>=1.29
+# Pillow и requests устанавливаются вместе с tkintermapview.
+
+# Необязательно: офлайн-база геолокации (.mmdb от MaxMind GeoLite2 или DB-IP Lite)
+# maxminddb>=2.0
